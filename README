@@ -1,0 +1,5 @@
+This causes a segfault on a debug build TOT clang.
+
+Only tested on mac os x 10.10
+
+Run `./build.sh` to build the plugin, and `./run.sh` to run it
